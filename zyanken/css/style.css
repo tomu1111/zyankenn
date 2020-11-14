@@ -1,0 +1,58 @@
+body{
+        background: linear-gradient(black, red);
+      
+}
+.all{
+    width: 850px;
+    margin: 0 auto;
+}
+.zyaken{
+    width:1000px;
+    margin: 0 auto;
+}
+.zyaken .zibun{
+    width: 50%;
+    float: left;
+}
+.zyaken .result{
+    width: 50%;
+    float: right;
+}
+.syobu{
+    text-align: center;
+    position: relative;
+    right: 90px;
+    font-size: 40px;
+    color: white;
+}
+.button{
+    text-align: center;
+    position: relative;
+    right: 180px;
+    top: 150px;
+    height: px;
+  　width: px;
+}
+
+.gu-{
+    width: 200px;
+    transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -webkit-transform: rotate(-20deg);
+    position: relative;
+    right: 100px;
+}
+.pa-{
+    width: 200px;
+    transform: rotate(20deg);
+    -moz-transform: rotate(20deg);
+    -webkit-transform: rotate(20deg);
+    position: relative;
+    left: 100px;
+}
+.cyoki{
+    width: 200px;
+    position: relative;
+    right: 320px;
+    bottom: 20px;
+}
